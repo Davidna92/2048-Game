@@ -11,10 +11,10 @@ TODO:
 
 
 
-For Clones:
-1.Download and extract
-2. npm install
-3. npm start
+
+
+
+Use arrow keys to play
 
 
 Live Demo: https://game-4c214.web.app/
