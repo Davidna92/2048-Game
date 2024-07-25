@@ -14,7 +14,5 @@ TODO:
 
 
 
-Use arrow keys to play
-
-
 Live Demo: https://game-4c214.web.app/
+Use arrow keys to play
